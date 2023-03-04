@@ -1,0 +1,122 @@
+* {
+  margin: 0;
+  padding: 0;
+  /* box-sizing: initial;*/
+}
+
+.containor {
+  width: 1535px;
+  height: auto;
+  margin: 0;
+}
+
+body {
+  font-family: cursive;
+  background-color: #222;
+  color: white;
+}
+
+.between {
+  width: 1500px;
+  height: 50px;
+  font-size: 20px;
+  text-align: right;
+  margin-top: 30px;
+}
+
+.text {
+  width: 1535px;
+  height: 100px;
+  font-size: 50px;
+  text-align: center;
+
+  border-bottom: 5px solid;
+}
+
+.random {
+  width: 1535px;
+  height: 75px;
+  text-align: center;
+  border: 3px solid;
+  font-size: 40px;
+}
+
+.check {
+  width: 1535px;
+  height: 300px;
+  margin: 20px;
+}
+
+.input_area {
+  width: 767.5px;
+  height: 260px;
+  margin: 20px;
+  float: left;
+  font-size: 30px;
+}
+
+.inputnum {
+  width: 140px;
+  height: 70px;
+  font-size: 40px;
+  margin-left: 60px;
+  border: 3px solid;
+  text-align: center;
+}
+
+.btn_check {
+  width: 100px;
+  height: 50px;
+  font-size: 30px;
+  margin-left: 80px;
+  margin-top: 20px;
+  border: 3px solid;
+}
+
+.written {
+  width: 700.5px;
+  height: 300px;
+  font-size: 40px;
+  float: left;
+}
+
+.start {
+  width: 700.5px;
+  height: 100px;
+  font-size: 40px;
+}
+
+.score {
+  width: 700.5px;
+  height: 40px;
+  font-size: 40px;
+}
+
+.highscore {
+  width: 700.5px;
+  height: 48px;
+  font-size: 40px;
+}
+
+.agin {
+  width: 1535px;
+  height: 110px;
+  margin: 20px;
+  text-align: center;
+}
+
+.btn_agin {
+  width: 150px;
+  height: 75px;
+  text-align: center;
+  font-size: 40px;
+  border: 3px solid;
+}
+
+.btn_agin:hover {
+  color: red;
+}
+
+.btn_check:hover {
+  color: red;
+}
